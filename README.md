@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rizzledizzle4/azure-network-protocol)
 
 <h2>🤳Connect with me:</h2>
-<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: www.linkedin.com/in/alex-gordon-5a3676169
+<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: www.linkedin.com/in/alexander-gordon-5a3676169
