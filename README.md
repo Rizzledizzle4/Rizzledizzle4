@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Rizzledizzle4/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Rizzledizzle4/ticket-lifestyle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Rizzledizzle4/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Rizzledizzle4/p-assesment)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rizzledizzle4/azure-network-protocol)
 
 <h2>🤳Connect with me:</h2>
